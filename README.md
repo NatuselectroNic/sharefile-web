@@ -31,7 +31,7 @@
 ### 安装步骤
 1. 克隆仓库
    ```bash
-   git clone [https://github.com/yourusername/file-share.git](https://github.com/NatuselectroNic/sharefile-web.git)
+   git clone https://github.com/NatuselectroNic/sharefile-web.git
    cd file-share
    ```
 2. 安装依赖
@@ -159,7 +159,7 @@ A: 当前版本为单机版，适合小范围使用，如需多用户支持需�
 
 ```bash
 # 克隆仓库
-git clone [https://github.com/yourusername/fileshare-system.git](https://github.com/NatuselectroNic/sharefile-web.git)
+git clone https://github.com/NatuselectroNic/sharefile-web.git
 cd fileshare-system
 
 # 安装依赖
